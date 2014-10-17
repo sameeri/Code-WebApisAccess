@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-email:
+title: Sameeri Marryboyina
+subtitle: It's time to rock it up!
+description: Home of Sameeri Marryboyina on Github!
+author: Sameeri Marryboyina
+email: sameeri.pavan@gmail.com
 language:
 
 # URL
@@ -85,4 +85,6 @@ exclude_generator:
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: github
+  repository: git@github.com:sameeri/Code-WebApisAccess.git
+  branch: gh-pages
